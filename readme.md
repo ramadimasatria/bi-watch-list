@@ -9,8 +9,8 @@
 
 ## Technical
 ### Kafka
-* [What is Apache Kafka?](https://www.youtube.com/watch?v=mAgmwHHR6xY): Jay Kreps [10:25]
-* [How Does Apache Kafka Work?](https://www.youtube.com/watch?v=EiWsPd6JDoo): Jay Kreps [10:51]
-* [Understanding Kafka with Legos](https://www.youtube.com/watch?v=Q5wOegcVa8E): Jesse Anderson [11:47]
+* [**What is Apache Kafka?**](https://www.youtube.com/watch?v=mAgmwHHR6xY): Jay Kreps [10:25]
+* [**How Does Apache Kafka Work?**](https://www.youtube.com/watch?v=EiWsPd6JDoo): Jay Kreps [10:51]
+* [**Understanding Kafka with Legos**](https://www.youtube.com/watch?v=Q5wOegcVa8E): Jesse Anderson [11:47]
 
 ## Others
