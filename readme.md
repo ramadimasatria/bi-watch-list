@@ -11,6 +11,7 @@
 ### Kafka
 * [**How Does Apache Kafka Work?**](https://www.youtube.com/watch?v=EiWsPd6JDoo): Jay Kreps [10:51]
 * [**Understanding Kafka with Legos**](https://www.youtube.com/watch?v=Q5wOegcVa8E): Jesse Anderson [11:47]
+* [**Apache Kafka and the Next 700 Stream Processing Systems**](https://www.youtube.com/watch?v=9RMOc0SwRro): Jay Kreps [28:55]
 
 ## Others
 * [**Making Data Mean More Through Storytelling**](https://www.youtube.com/watch?v=6xsvGYIxJok): Ben Wellington [14:18]
